@@ -11,7 +11,7 @@ db = client["okayletsgo"]
 collection = db["kjøh"]
 
 
-#asdf
+#asdfasd
 def get_product(ean):
     url = f"https://kassal.app/api/v1/products/ean/{ean}"
     headers = {
