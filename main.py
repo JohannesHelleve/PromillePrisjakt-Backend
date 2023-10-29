@@ -1,10 +1,8 @@
 from pymongo import MongoClient
-from dotenv import load_dotenv
 from ean import ean
 import os
 import requests
 
-load_dotenv()
 
 # Connect to MongoDB
 client = MongoClient(os.environ.get("MONGO_URL"))
