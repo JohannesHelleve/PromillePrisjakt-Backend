@@ -1,4 +1,3 @@
-import pymongo 
 from pymongo import MongoClient
 from dotenv import load_dotenv
 from ean import ean
