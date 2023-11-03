@@ -4,20 +4,19 @@ import os
 import requests
 
 
-# Connect to MongoDB
-client = MongoClient(process.env.MONGODB_URL)
+client = MongoClient(os.environ.get("MONGO_URL"))
 
 db = client["okayletsgo"]
 collection = db["kjøh"]
 
 
-#asdfasdasdf
 def get_product(ean):
     url = f"https://kassal.app/api/v1/products/ean/{ean}"
     headers = {
-        'Authorization': f'Bearer {process.env.KASSAL_BEARER_TOKEN}'
+        'Authorization': f'Bearer {os.environ.get("KASSAL_BEARER_TOKEN")}'
     }
     response = requests.get(url, headers=headers)
+    print(response)
     return prettify_product(response)
 
 def prettify_product(response):
