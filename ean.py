@@ -1,152 +1,400 @@
 ean = {
 
-    "Ringnes Lettøl 0,5l boks": "7044610875477",
-    "Ringnes Lite Glutenfri 6 x 0,5l, 3 l": "7044613876143",
-    "Ringnes Pilsner 0,5l boks": "7044610874951",
-    "Ringnes Pilsner 0,5lx6 boks": "7044611874950",
-    "Ringnes Lite Sommer 0,33l boks": "7044610876429",
-    "Ringnes Lettøl 0,5lx6 boks": "7044611875476",
-    "Ringnes Lite Sommer 0,33lx10 boks": "7044611876428",
-    "Ringnes Lite 0,33l boks": "7044610870939",
-    "Ringnes Pilsner 0,33lx10 boks": "7044611875698",
-    "Ringnes Lite Tropisk 0,5lx6 boks": "7044611876381",
-    "Ringnes Lite 0,33lx10 boks": "7044610870946",
-    "Ringnes Vørterøl 0,33lx6 boks": "7044611874936",
-    "Ringnes Vørterøl 0,33l": "7044610874937",
-    "Ringnes Lite Tropisk 0,5l boks": "7044610876382",
-    "Ringnes Lite Fatøl Glutenfri 6x0,5l, 3 l": "7044616876133",
-    "Ringnes Pilsner 0,33": "7044610047003",
-    "Ringnes Pilsner 0,33l boks": "7044610047003",
-    "Ringnes Vørterøl 0,33l boks": "7044610874937",
-    "Ringnes Lite 0,5l boks": "7044610874944",
-    "Ringnes Lite Fatøl 0,5l boks": "7044610875064",
-    "Ringnes Lettøl 0.50l": "7044610875477",
-    "Ringnes Lite 0,50 6pk": "7044610874944",
-    "Ringnes Lite 10pk": "7044610870939",
-    "Ringnes Pilsner 0,50": "7044610874951",
-    "Ringnes Lite Tropisk 0.50l": "7044610876382",
-    "Ringnes Lite Sommer 0.33": "7044610876429",
-    "Ringnes Lite Fatøl 0.50l": "7044610875064",
-    "Hansa Fatøl 0,5l boks": "7030019531885",
-    "Hansa Pilsner 0,5lx6 boks": "7030019532011",
-    "Hansa Pilsner Lite 0,5l boks": "7030019532615",
-    "Hansa Null% 0,5l boks": "7030019532530",
-    "Hansa Spesial Chili Blonde 6 x 0,5l, 3 l": "7030019528823",
-    "Hansa Mango Ipa 0,5l boks": "7030019535685",
-    "Hansa Chili Blonde 0,5l boks": "7030019528793",
-    "Hansa Lettøl 0,5lx6 boks": "7030019532509",
-    "Hansa Pilsner 0,33l boks": "7030019531946",
-    "Hansa Shandy Grapefrukt 3 l": "7030019539621",
-    "Hansa Pilsner Fridgepack 0,33lx10 boks": "7030019531953",
-    "Hansa Radler sitrus 6 x 0,5 l, 3 l": "7030019539683",
-    "Hansa Mango Ipa 0,5lx6 boks": "7030019535692",
-    "Hansa Null% 0,5lx6 boks": "7030019532547",
-    "Hansa Pilsner Lite 0,5lx6 boks": "7030019532622",
-    "Hansa Premium 0,5l boks": "7030019532653",
-    "Hansa Mango Ipa Lite 0,5l boks": "7030019537504",
-    "Hansa Fatøl 0,5lx6 boks": "7030019531892",
-    "Hansa Radler Grapefrukt 0,5lx6 boks": "7030019536613",
-    "Hansa Premium 0,5lx6 boks": "7030019532660",
-    "Hansa Fatøl 0,33lx10 boks": "7030019531861",
-    "Hansa Radler Grapefrukt 0,5l boks": "7030019536606",
-    "Hansa Spesial Porter 0,5 l": "7030019523569",
-    "Hansa Lettøl 0,5l boks": "7030019532493",
-    "Hansa Spesial White Ipa 0,5x6 boks": "7030019532783",
-    "Hansa Spesial Ipa 0,5lx6 boks": "7030019532745",
-    "Hansa Mango Ipa Lite 0,5lx6 boks": "7030019537511",
-    "Hansa Pilsner Fridgepack 0,33lx10 boks": "7030019531953",
-    "Hansa Pilsner Lite 0,50bx 6pk": "7030019532615",
-    "Hansa Lettøl 0,50l bx 6pk": "7030019532493",
-    "Hansa Fatøl 0,50 bx 6pk": "7030019531885",
-    "Hansa Ipa Mango 0.50l bx 6pk": "7030019535685",
-    "Hansa Premium 0.33l Flaske": "7030019520964",
-    "Hansa Premium 0,50bx 6pk": "7030019532653",
-    "Hansa Null % 0,50l bx": "7030019532530",
-    "Hansa Radler Grapefrukt 0.50l bx 6pk": "7030019536606",
-    "Hansa Pilsner 0,33bx 10pk": "7030019531946",
-    "Hansa Pilsner 0.50l bx 6pk": "7030019532011",
-    "Hansa Mango Ipa Lite 0.50l bx 6pk": "7030019537504",
-    "Hansa Spesial White Ipa 0,50bx 6pk": "7030019532776",
-    "Hansa Spesial Ipa 0.50bx 6pk": "7030019532738",
-    "Frydenlund Fatøl 0,5lx6 boks": "7044610048543",
-    "Frydenlund Juicy Ipa 0,33lx10 boks": "7044611876046",
-    "Frydenlund Juicy Ipa 0,5l boks": "7044610875583",
-    "Frydenlund Pilsner 0,5lx6 boks": "7044610048727",
-    "Frydenlund Fatøl 0,33lx10 boks": "7044610241296",
-    "Frydenlund Juicy Ipa 0,5lx6 boks": "7044611875582",
-    "Frydenlund Pilsner 0,5l boks": "7044610047720",
-    "Frydenlund Juicy Bær 0,5lx6 boks": "7044611876343",
-    "Frydenlund Gyllen Ipa 0,5lx6 boks": "7044611876688",
-    "Frydenlund Gyllen Ipa 0,5l boks": "7044610876689",
-    "Frydenlund Fatøl 0,33l boks": "7044610241289",
-    "Frydenlund Bayer 0,5lx6 boks": "7044610766577",
-    "Frydenlund Hveteøl 0,5l boks": "7044610874159",
-    "Frydenlund Hveteøl 0,5lx6 boks": "7044610874166",
-    "Frydenlund Bayer 0,5l boks": "7044610063171",
-    "Frydenlund Juicy Ipa 0.50l": "7044610875583",
-    "Frydenlund Gyllen Ipa 0.50l": "7044610876689",
-    "Frydenlund Juicy Pils 0.50l": "7044610876900",
-    "Grevens Cider Pære 0,5l boks": "7030019511733",
-    "Grevens Cider Jordbær&Pitanga u/Sukker 0,5l boks": "7030019539096",
-    "Grevens Cider Skogsbær u/Sukker 0,5lx6 boks": "7030019517599",
-    "Grevens Cider Fruktsmak u/Sukker 0,5l boks": "7030019532332",
-    "Grevens Cider Eple&Bringebær 0,5lx6 boks": "7030019537634",
-    "Grevens Cider Fruktsmak u/Sukker 0,5lx6 boks": "7030019532349",
-    "Grevens Cider Eple&Bringebær 0,5l boks": "7030019537627",
-    "Grevens Cider Pære 0,5lx6 boks": "7030019511740",
-    "Grevens Cider Ingefær&Limonade 0,5lx6 boks": "7030019537931",
-    "Grevens Cider Iste&Fersken 0,5lx6 boks": "7030019522869",
-    "Grevens Cider Appelsin&Hibiscus 0,5l boks": "7030019531366",
-    "Mack Isbjørn Lite 0,33l boks": "7037120018663",
-    "Mack Isbjørn 0,5l boks": "7037120015389",
-    "Isbjørn 6 x 0,5l, 3 l": "7037120015419",
-    "Mack Isbjørn Lite Mango Gl.Fri 0,5lx6 boks": "7037120026743",
-    "Mack Isbjørn Lite Gl.Fri 0,33lx10bx": "7037120029584",
-    "Mack Isbjørn Lite Blodappelsin 0,5lx6 boks": "7037120029188",
-    "Mack Isbjørn Lite 0,5l boks": "7037120018601",
-    "Mack Isbjørn Lite Mango Gl.Fri 0,5l boks": "7037120026736",
-    "Mack Isbjørn Lite Blodappelsin 0,5l boks": "7037120029171",
-    "Isbjørn 0.50lx6bx Brett": "7037120015389",
-    "Aass Fatøl 0,33l boks": "7033050815525",
-    "Aass Pilsner 0,5lx6 boks": "7033050315018",
-    "Aass Lite Vienna Lager 0,33l boks": "7033050815549",
-    "Aass Pilsner 0,33l boks": "7033050815501",
-    "Aass uten 0,33l boks": "7033050830061",
-    "Aass Pilsner 12 x 0,33l, 3,96 l": "7033050315513",
-    "Aass Pilsner 0,5l boks": "7033050815006",
-    "Aass Fatøl 0,5l boks": "7033050815020",
-    "Aass Fatøl 0,5lx6 boks": "7033050315032",
-    "Aass uten 0,33lx6 boks": "7033050330073",
-    "Aass Lite 6 x 0,33l, 1,98 l": "7033050315551",
-    "Aass Ipa Mango 0,5lx6 boks": "7033050315407",
-    "Aass Lite Mango Ipa 0,5l boks": "7033050815419",
-    "Aass Lite Vienna Lager 0,5lx6 boks": "7033050315094",
-    "Aass Ipa 0,5lx6 boks": "7033050315360",
-    "Aass Energiøl 0,5l boks": "7033050815471",
-    "Aass Kirsebærcider 6 x 0,5l, 3 l": "7033050315834",
-    "Aass Cider Kirsebær 0,5l boks": "7033050815822",
-    "Aass Lite Mango Ipa 0,5lx6 boks": "7033050315421",
-    "Aass Energiøl 0,5lx6 boks": "7033050315483",
-    "Aass Fatøl 6x0,33l, 1,98 l": "7033050315537",
-    "Aass Vørterøl 0,33lx6 boks": "7033050330035",
-    "Aass Classic 0,5l boks": "7033050815457",
-    "Aass Bayer 0,5l boks": "7033050815044",
-    "Aass Pale Ale 0,5l boks": "7033050815105",
-    "Aass Halling 0,5l boks": "7033050815143",
-    "Aass Vørterøl 0.33l bx 6-pk": "7033050830009",
-    "Aass Halling 0,5lx6 boks": "7033050315155",
-    "Aass Sommerøl 0,5lx6 boks": "7033050315193",
-    "Aass Blanc 0,5lx6 boks": "7033050315346",
-    "Aass Classic 4 x 0,5L, 2 l": "7033050315469",
-    "Aass uten Ipa 0,33lx6 boks": "7033050330059",
-    "Aass Lite Vienna Lager 0,5l boks": "7033050815082",
-    "Aass Ipa 0,5l boks": "7033050815358",
-    "Aass Cider Eple Tørr 0,5l boks": "7033050815808",
-    "Aass Vørterøl 0,33l boks": "7033050830009",
-    "Aass Kirsebærcider 0.50l bx": "7033050815822",
-    
+    "Grevens Cider Sitrongress Alkoholfri 0,33l boks": "7030019538969",
 
+"Somersby Cider Sparkling Rose 0,33l boks": "7044612875857",
 
+"Bulmers Red Berries 0,5l flaske": "5411718910997",
+
+"Grevens Sommercider Mango & Yuzu 6 x 0,5 l, 3 l": "7030019539805",
+
+"Halmstad Cider Crush Mango Passion 0,5l boks": "7311120236075",
+
+"Z Cider Mango 0,5l flaske": "7070334995283",
+
+"Fjellsider Eple & Bringebær 0,33l boks": "7090050080025",
+
+"Cider Mango Passion 0.5lx4bx Mack": "7037120025289",
+
+"Somersby Sparkling Spritz 0,33 l": "7044612875864",
+
+"Pærecider 0,5l boks Berentsens": "7030660356844",
+
+"Rekorderlig Cider - Mango/bringebær 4.5%": "7311100444223",
+
+"Mack Cider Pære Lite 0,5lx4 boks": "7037120020260",
+
+"Aass Eplecider Tørr 6 x 0,5l, 3 l": "7033050315810",
+
+"Somersby Raspberry Lime Lite 6 x 0,5l, 3 l": "7044611876718",
+
+"Mack Cider Secco 0,5lx4 boks": "7037120020321",
+
+"Fjellsider eple og Rabarbra 0.33l": "7090050080070",
+
+"Grevens Cider Pære 0,5l boks": "7030019511733",
+
+"Somersby Sparkling Lemon Spritz 3 l": "7044611876725",
+
+"Mack Cider Pære Lite 0,5l boks": "7037120005038",
+
+"Somersby Cider Apple Lite 0,5lx6 boks": "7044610873077",
+
+"Cider Mango Passion 0,5l boks Mack": "7037120025272",
+
+"Fjellsider Eple&Rabarbra 0,33l boks": "7090050080070",
+
+"Grevens Cider Jordbær&Pitanga u/Sukker 0,5l boks": "7030019539089",
+
+"Grevens Cider Ingefær&Limonade 0,5l boks": "7030019537924",
+
+"Somersby Cider Apple 0,5l boks": "7310070786937",
+
+"Somersby Cider Pear 0,5l boks": "7310070786982",
+
+"Somersby Cider Apple 0,5lx6 boks": "7044610873060",
+
+"Halmstad Aloha Cider 0,5 l": "7311120236020",
+
+"Grevens Cider Pære u/Sukker 0,5lx6 boks": "7030019532462",
+
+"Grevens Cider Jordbær&Pitanga u/S 0,5lx6 boks": "7030019539096",
+
+"Fjordly Eplecider 0,33l boks Lervig": "7072712009018",
+
+"Grevens Cider Sitrongress Alkoholfri 0,33lx6 boks": "7030019538976",
+
+"Somersby Cider Apple Lite 0,5l boks": "7310070786944",
+
+"Bulmers Cider Original 0,5l flaske": "5411718910959",
+
+"Bulmers Red Berries 0,33l boks": "5410263928082",
+
+"Herrljunga Cider Eple 0,75l flaske": "7312720042134",
+
+"Halmstad Cider Granateple 4,5% 0,5l boks": "7311120299537",
+
+"Grevens Cider Mango&Yuzu 0,5l boks": "7030019539799",
+
+"Sider m/Bringebær 0,375l flaske Hardanger": "7090010291768",
+
+"Mack Cider Pære 0,5l boks": "7037120001528",
+
+"Vossasider Eple&Bringebær 0,33l flaske": "7090039743200",
+
+"Somersby Sparkling Lemon Spritz 0,5l boks": "7044610876726",
+
+"Mack Eplecider Lett 1,5l": "7037120017475",
+
+"Peachy Mangocider Lite 0,5lx6 boks Berentsens": "7030660369356",
+
+"Grevens Cider Pære u/Sukker 0,5l boks": "7030019532455",
+
+"Grevens Cider Iste&Fersken 0,5l boks": "7030019522838",
+
+"Herrljunga Cider Pære 0.7% 1l flaske": "7312720022310",
+
+"Grevens Cider Skogsbær u/Sukker 0,5l boks": "7030019517568",
+
+"Rha Rose Cider 0,75l flaske Ciderhuset": "7023860037088",
+
+"Fjellsider Eple 0,33l boks": "7090050080018",
+
+"Grevens Appelsin & Hibiksus 6 x 0,5l, 3 l": "7030019536354",
+
+"Askim Cider m/Fersken 0,7l": "7025441017892",
+
+"Mack Cider Lite Dragefrukt 0.50l bx": "7037120026798",
+
+"Somersby Cider Mango Lime Lite 0,5l boks": "7044610876269",
+
+"Mack Cider Secco 0,5l boks": "7037120014634",
+
+"Somersby Cider Raspberry Lime 0,5l boks": "7044610876719",
+
+"Mack Cider Pære 0,5lx4 boks": "7037120020505",
+
+"Magners Cider Original 0,5l boks": "5391516871402",
+
+"Grevens Cider Skogsbær u/Sukker 0,5lx6 boks": "7030019517599",
+
+"Cider Jordbær og lime, 0,5 l": "7311100444025",
+
+"Mack Cider Sparkling Rose 0,5l boks": "7037120020420",
+
+"Frisider Eple og Br.Bær 0,75l flaske Gardsbrenneriet": "7090035961622",
+
+"Berries Cider Lite 0,5l boks Berentsens": "7030660370789",
+
+"Vossasider Eple 0,33l flaske": "7090039743101",
+
+"Peachy Mangocider Lite 0,5l boks Berentsens": "7030660369349",
+
+"Humla Cider Eple 0,75l flaske Ciderhuset": "7023860027065",
+
+"Eplerose 1,5l flaske Brænne": "7035260004812",
+
+"Grevens Cider Fruktsmak u/Sukker 0,5l boks": "7030019532332",
+
+"Bulmers Cider Rose 0,5l flaske": "5411718912595",
+
+"Mack Cider Lite Dragefrukt 0,5lx4 boks": "7037120026804",
+
+"Mack Cider Fersken&Bringebær 0,5lx4 boks": "7037120020352",
+
+"Herrljunga Eplecider 1l": "7312720022303",
+
+"Mack Cider Fersken&Bringebær 0,5l boks": "7037120001436",
+
+"Pærecider 0,5lx6 boks Berentsens": "7030660356851",
+
+"Eplesider 0,33l flaske Egge Gård": "7090006632926",
+
+"Somersby Sparkling Rosé 6x0,5l, 3 l": "7044610876573",
+
+"Bulmers Kiwi&Lime 0,33l boks": "5410263928112",
+
+"Eplesider 750ml flaske Edel": "7090040240866",
+
+"Grevens Cider Fruktsmak u/Sukker 0,5lx6 boks": "7030019532349",
+
+"Apple Cider 375ml flaske Bundaberg": "9311493002268",
+
+"Berries Cider Lite 0,5lx6 boks Berentsens": "7030660370796",
+
+"Grevens Cider Eple&Bringebær 0,5lx6 boks": "7030019537634",
+
+"Somersby Sparkling Spritz 0.33l": "7044612875864",
+
+"Attåt Sider Eple/Jordbær/Rabarbra 0,33l boks": "7090035960960",
+
+"Somersby Cider Pear 0,5lx6 boks": "7044610873107",
+
+"Aass Kirsebærcider 6 x 0,5l, 3 l": "7033050315834",
+
+"Aass Cider Kirsebær 0,5l boks": "7033050815822",
+
+"Somersby Raspberry Lime Cider 0.50l": "7044610876719",
+
+"Vestr Cider Eple 0,75l flaske Ciderhuset": "7023860027553",
+
+"Mack Cider Mango/passion Lite 0.50l bx": "7037120025272",
+
+"Rekorderlig Cider - Jordbær/lime 4.5%": "7311100444025",
+
+"Z Cider Mango 4,5%": "7070334995283",
+
+"Bulmers Cider Zesty Blood Orange 0,5l flaske": "5411718911932",
+
+"Grevens Cider Pære 0,5lx6 boks": "7030019511740",
+
+"Somersby Cider Pear Lite 0,5l boks": "7044610876061",
+
+"Rosecider 750ml flaske Edel": "7090040240897",
+
+"Askim Cider m/Eple 0,7l": "7025441017908",
+
+"Pærecider 275ml flaske Alrekstad": "7090058460232",
+
+"Rekorderlig Cider - Jordbær/lime 4.5%": "7311100444025",
+
+"Mack Cider Mango/passion Lite 0.50l bx": "7037120025272",
+
+"Eplesider Stille 0,75l flaske Hardanger Cideri": "7090029039955",
+
+"Åkre Edel Sider 0,33l flaske": "7090040240248",
+
+"Pærecider 275ml flaske Alrekstad": "7090058460232",
+
+"Askim Cider m/Eple 0,7l": "7025441017908",
+
+"Pærecider Lite 0,5l boks Berentsens": "7030660368335",
+
+"Somersby Mango Lime Lite 6 x 0,50 l, 3 l": "7044611876268",
+
+"Handverkcider Bær 0,33l flaske Balholm": "7023860023159",
+
+"Grevens Cider Ingefær&Limonade 0,5lx6 boks": "7030019537931",
+
+"Somersby Apple Cider 0,50l": "7310070786937",
+
+"Mack Cider Fersken/bringbær 0.33l Fl": "7037120001375",
+
+"Brothers Cider Toffe Apple 0,5l flaske": "5027342001316",
+
+"Sider Frå Lærdal 0,33l boks Haugsfrukt": "7090055393113",
+
+"Lovløs Østkyst Cider 0,33l boks": "7090041090057",
+
+"Somersby Cider Pear Lite 0,5lx6 boks": "7044611876060",
+
+"Grevens Cider Iste&Fersken 0,5lx6 boks": "7030019522869",
+
+"Aass Cider Eple Tørr 0,5l boks": "7033050815808",
+
+"Hula Girl 0,44l boks Fjordfolk": "7090043551280",
+
+"Somersby Cider Apple 0,5l boks": "7310070786937",
+
+"Somersby Sparkling Rose 0,5lx6 boks": "7044611876572",
+
+"Splash Blue Razz 0,5 l": "7030019539263",
+
+"Somersby Mango Lime Lite Cider 0.50l": "7044610876269",
+
+"Mack Cider Sparkling Rose bx 0.50l bx": "7037120020420",
+
+"Sider 0,5l Ulvik Frukt Cideri": "7090027540149",
+
+"Brothers Cider Cloudy Lemon 0,5l flaske": "5027342001293",
+
+"Hardanger Cideri Tradisjonell Stille Eplesider 0.75 l": "7090029039955",
+
+"Fjellsider eple 0.33l": "7090050080018",
+
+"Askim Cider m/Pære 0,7l flaske": "7025441017885",
+
+"Mack Appelsincider Lett 0,5l": "7037120018366",
+
+"Mack Eple Cider Lett 0.50l Fl": "7037120020154",
+
+"Pærecider Lite 0.5lx6 boks Berentsens": "7030660368342",
+
+"Grevens Cider Appelsin&Hibiscus 0,5l boks": "7030019531366",
+
+"Magners Pint Vintage Cider 4,5% 0,57l flaske": "5391516871389",
+
+"Handverkcider Pære 0,33l Balholm": "7023860023043",
+
+"Roscoe Ginger Beer 0,33 l": "7311120270574",
+
+"Sider Ekte 0,75l flaske Egge Gård": "7090006930282",
+
+"Mack Cider Sparkling Rose 0,5lx4 boks": "7037120020437",
+
+"Sider Eple/Br.Bær 0,75l flaske Gardsbrenneriet": "7090035961585",
+
+"Sider Eple/Jordb. 0,75l flaske Gardsbrenneriet": "7090035961608",
+
+"Sider Gardseple 0,75l flaske Gardsbrenneriet": "7090035961561",
+
+"Somersby Cider Raspberry Lime 0,5l boks": "7044610876719",
+
+"Splash Tropical Madness 0.5 l": "7030019539201",
+
+"Fly Home Halvtørr med Bringebær Boks 440ml Fjordfolk": "7090043551594",
+
+"Nautical Star Tørr med Blodappelsin og Hibiskus Boks 440ml Fjordfolk": "7090043551303",
+
+"Mack Cider Fersken/bringebær 0.5lx4bk": "7037120001436",
+
+"Handverkcider Eple 5% 33 cl Balholm": "7023860043034",
+
+"Aass Kirsebærcider 0.50l bx": "7033050815822",
+
+"Magners Orginal 50cl bx": "5391516871402",
+
+"Halmstad Cider Granateple 4.5%": "7311120299537",
+
+"Cider Brothers Rhubarb&Custard 0,5l flaske": "5027342002290",
+
+"Rose Sider 0,33l flaske Egge Gård": "7090006632797",
+
+"Hold Fast 0,44l boks Fjordfolk": "7090043551297",
+
+"Edel Rosesider 0,33l flaske Åkre": "7090040240361",
+
+"Compass Rose 0,44l boks Fjordfolk": "7090043551662",
+
+"Drop Anchor Cider 440ml Fjordfolk": "7090043552157",
+
+"Thirsty Piranha 275ml flaske Monkey Boy": "7072217004716",
+
+"Edel Sider 0,33l Åkre": "7090040240248",
+
+"Lovløs Østkyst 4,7% 33cl Ca": "7090041090057",
+
+"Fjellsider eple og Bringebær 0.33l": "7090050080025",
+
+"Ginger Beer 0.33l bx": "7072712010250",
+
+"Mack Eplecider 1,5l": "7037120017529",
+
+"Mack Appelsincider Lett 1,5l": "7037120018335",
+
+"Grevens Alkoholfri Sitrongress, Svart Te Hibiskus 0,33 bx": "7030019538969",
+
+"Askim Cider med Smak av Fersken 0.7l Afb": "7025441017892",
+
+"Bulmers Cider Zesty Blood Orange 0,5l flaske": "5411718911932",
+
+"Grevens Sommer Mango & Yuzu 0,50 bx 6pk": "7030019539799",
+
+"Bulmers Red Berries Sleek 0.33l bx": "5410263928082",
+
+"Bulmers Kiwi & Lime 0.33l bx": "5410263928112",
+
+"Grevens Cider Jordbær og Pitanga uten Sukker 0,50bx": "7030019539089",
+
+"Somersby Sparkling Lemon Spritz 0.50l": "7044610876726",
+
+"Somersby Sparkling Rose 0.50": "7044610876573",
+
+"Grevens Ingefær&Limonade 0.50bx": "7030019537924",
+
+"Grevens Cider Eple & Bringebær 0.50l bx": "7030019537627",
+
+"Peachy Mangocider Lite 4.7% 0.5bx": "7030660369349",
+
+"Bulmers Rosé 0.50l Fl": "5411718912595",
+
+"Somersby Pear Lite 0.50": "7044610876061",
+
+"Somersby Sparkling Rosé 0.33l": "7044612875857",
+
+"Pærecider Lite 4.7% 0.5l X 6": "7030660368335",
+
+"Halmstad Crush Mango Passion 50cl": "7311120236075",
+
+"Bulmers Zesty Blood Orange 0.50l Fl": "5411718911932",
+
+"Mack Cider Eple Secco bx 0.50lx4bx": "7037120014634",
+
+"Mack Cider Pære 0.50lx4bx": "7037120001528",
+
+"Cider Pære Lite 0.50l bx Mack 4pk": "7037120005038",
+
+"Grevens Cider Fruktsmak 0.50bx 6pk": "7030019532332",
+
+"Handverkcider Pære 0,33l Balholm": "7023860023043",
+
+"Grevens Pærecider uten Sukker 0.50bx 6pk": "7030019532455",
+
+"Handverkcider Eple 0,33l Balholm": "7023860023036",
+
+"Handverkcider Bær 0,33l Balholm": "7023860023159",
+
+"Aass Eplecider Tørr 0.50l bx": "7033050815808",
+
+"Bulmers Original 0.50l Fl": "5411718910959",
+
+"Bulmers Red Berries 0.50l Fl": "5411718910997",
+
+"Somersby Apple Lite Cider 0.50l": "7310070786944",
+
+"Somersby Pear Cider 0.50l": "7310070786982",
+
+"Grevens Cider Iste og Fersken 0.50l bx 6pk": "7030019522838",
+
+"Pærecider 4.7% 0.50l": "7030660356844",
+
+"Magners Original Cider 0.568l Flaske": "5391516871389",
+
+"Grevens Cider Skogsbær uten Sukker 0.5l Bx6pk": "7030019517568",
+
+"Grevens Cider Pære 0.50l bx 6pk": "7030019511733",
+
+"Handverkcider Eple 5% 33cl Balholm": "7023860043034"
 
 
 }

@@ -1,8 +1,12 @@
 from pymongo import MongoClient
+from dotenv.main import load_dotenv
+from datetime import datetime, timedelta
 from ean import ean
 import os
 import requests
 
+
+load_dotenv()
 
 client = MongoClient(os.environ.get("MONGO_URL"))
 
@@ -16,15 +20,23 @@ def get_product(ean):
         'Authorization': f'Bearer {os.environ.get("KASSAL_BEARER_TOKEN")}'
     }
     response = requests.get(url, headers=headers)
-    print(response)
     return prettify_product(response)
+
+def is_more_than_30_days_ago(date_string):
+    date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
+    parsed_date = datetime.strptime(date_string, date_format)
+    current_date = datetime.now()
+    delta = current_date - parsed_date
+    return delta > timedelta(days=30)
 
 def prettify_product(response):
     response_json = response.json()
     stores = []
 
     for store in response_json['data']['products']:
-        if store['store'] is None or store['current_price'] is None:
+        if store['store'] is None:
+            continue
+        if is_more_than_30_days_ago(store['current_price']['date']):
             continue
 
         stores.append({
@@ -32,6 +44,10 @@ def prettify_product(response):
             'storePrice': store['current_price']['price']
         })
 
+        
+    if len(stores) == 0:
+            return None
+    
     stores.sort(key=lambda x: x['storePrice'])
 
     pretty_product = {
@@ -52,9 +68,16 @@ def update_product(product):
     
 
 def update_db():
+    x = 1
     for code in ean.values():
         product = get_product(code)
-        update_product(product)
+        print(product)
+        print(update_product(product).get('status'))
+        print(x)
+        x += 1
+        if product is None:
+            continue
+        
     return {'status': 200}
 
 update_db()
