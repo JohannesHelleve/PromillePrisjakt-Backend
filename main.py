@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-from dotenv.main import load_dotenv
 from datetime import datetime, timedelta
 from ean import ean
 import os
@@ -7,8 +6,6 @@ import requests
 import time
 import json
 
-
-load_dotenv()
 
 client = MongoClient(os.environ.get("MONGO_URL"))
 
